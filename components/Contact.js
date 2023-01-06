@@ -2,7 +2,7 @@ import Link from "next/link"
 
 const Contact = () => {
   return (
-    <div className="w-full bg-gray-200 grid place-items-center p-[5rem] text-center">
+    <div id="contact-us" className="w-full bg-gray-200 grid place-items-center p-[5rem] text-center">
         <h2 className="font-bold text-2xl py-[1rem]">Interested in working with us?</h2>
         <p className="py-[1rem]">Let&apos;s talk now!</p>
 
